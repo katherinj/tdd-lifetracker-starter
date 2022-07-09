@@ -50,10 +50,10 @@ Implement any of the following features to improve the application:
 ### Walkthrough Video
 
 Week 4 gif
-![]([media\LifeTrackerWeek1.gif](https://github.com/katherinj/tdd-lifetracker-starter/blob/main/media/LifeTrackerWeek1.gif))
+![](https://github.com/katherinj/tdd-lifetracker-starter/blob/main/media/LifeTrackerWeek1.gif)
 
 Week 5 gif
-![](media\LifeTrackerWeek2.gif)
+![](https://github.com/katherinj/tdd-lifetracker-starter/blob/main/media/LifeTrackerWeek2.gif)
 
 [Link to Kanban board for this project](https://trello.com/b/wdtibvQj/lifetracker-project)
 
