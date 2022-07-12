@@ -9,7 +9,7 @@ export default function NavLinks() {
       <Link to="/activity">
         <label className="link-label">Activity</label>
       </Link>
-      <Link to="/nutrition/*">
+      <Link to="/nutrition">
         <label className="link-label">Nutrition</label>
       </Link>
       <Link to="/exercise">
