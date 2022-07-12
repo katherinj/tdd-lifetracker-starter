@@ -2,7 +2,7 @@ import AccessForbidden from "../AccessForbidden/AccessForbidden";
 import { useAuthContext } from "../../contexts/auth";
 
 export default function ProtectedRoute({ element }) {
-  const { user, initialized, isProcessing } = useAuthContext();
+  const { user, isProcessing } = useAuthContext();
   if (isProcessing) {
     return null;
   }
